@@ -1,0 +1,33 @@
+
+Estructura Base de datos
+
+Usuarios
+  - username
+  - password
+  - Nombre
+  - Apellido
+  - email
+  - phone
+  - activo
+
+Proyectos
+  - Nombre
+  - Descripcion
+  - fecha inicio
+  - fecha fin
+  - activo
+  - usuario_id
+
+Tareas
+  - nombre
+  - descripcion
+  - usuario_id
+  - fecha fin
+  - status
+  - proyecto_id
+
+
+
+
+
+

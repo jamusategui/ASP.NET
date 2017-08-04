@@ -1,0 +1,28 @@
+﻿Usuarios
+ x- Crear
+ - Actualizar
+ x- Eliminar
+ x- Desactivar
+ x- activar
+ x- obtenerUsuarioporID
+ x - obtenerTodosUsuarios
+ - 
+
+
+Proyectos
+ x- Crear
+ - Editar
+ - Agregar Tareas
+ x- Ver detalle
+ - Ver Tareas
+ x- Eliminar
+ - obtenerProjectManager
+ 
+ 
+ Tareas
+  - Crear
+  - Editar
+  - Cambiar Estado
+  - Eliminar
+  - Asignar a Usuario
+  
